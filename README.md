@@ -1,3 +1,8 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/random)
+
+
 # Random
 
 A drop-in replacement for the [Meteor random package](https://docs.meteor.com/packages/random.html). Unlike the Meteor package, you can use this either with or without Meteor.
